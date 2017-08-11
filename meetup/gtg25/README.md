@@ -10,7 +10,7 @@
 
 ### Talks
 
-- 19:30 ~ 20:10:  王思元 - Evenote API + Blogger API [[slide](https://docs.google.com/presentation/d/1WOuLZTEb8DXSxifUp9WnLvasj2XKt1Fgk3SG-x7vS8I/edit#slide=id.p)][[video](https://youtu.be/i5TJEj86dWw)]
+- 19:30 ~ 20:10:  王思元 - Evenote API + Blogger API [[slide](https://docs.google.com/presentation/d/1WOuLZTEb8DXSxifUp9WnLvasj2XKt1Fgk3SG-x7vS8I/edit#slide=id.p)][[video](https://youtu.be/i5TJEj86dWw)][[post](http://dev.twsiyuan.com/2017/07/talk-at-golang-gathering.html)]
 
 分享經驗，如何使用 Golang 串接 Evernote 以及 Blogger，製作簡單的服務，將 Evernote 筆記資料發佈到 Blogger 部落格上。
 一個簡單的 side project 解決自己的痛點
